@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;700&display=swap');
+ {margin: 0 auto;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'noto sans','sacs-serif';
+}
+
+html{
+        font-size:16px;
+    }
+
+.btn-coff{
+    text-transform: capitalize;
+     background:transparent;
+    border-radius:1px solid rgb(4, 3, 3);
+    color:whitesmoke;
+
+}
+.coff{
+    padding: 1rem 0;
+    background-color: rgb(140, 150, 171);
+}
+.coff-center{
+    width: 90vw;
+    margin: 0 auto;
+    max-width: 1170px;
+}
+.nav{
+    height: 2rem;
+    background-color: transparent;
+    border-top:2 auto;
+    margin: 0.25rem 0.25rem;
+    text-align: left;
+    max-width: 35rem;
+   margin: 0.25rem auto;
+   
+    border:3px solid transparent ;
+    border-color:rgb(149, 67, 9) ;
+
+}
+.nav-title{
+font-size: 1.5rem;
+font-style: italic;
+text-transform: uppercase;
+font-weight: 700;
+color: rgb(0, 0, 0);
+letter-spacing: 2px;
+}
+.nav-center{
+    width:90vw;
+    max-width:1170px;
+    margin:0 auto;
+}
+.coff{
+    background: linear-gradient(
+        to right,
+        rgba(169, 96, 33, 0.5),
+        rgb(123, 71, 25)
+    ),
+   url('https://c4.wallpaperflare.com/wallpaper/826/178/391/coffee-beans-hot-cup-coffee-bag-wallpaper-preview.jpg') center/cover no-repeat;
+    min-height: calc(100vh - 5rem);
+}
+.coff-center{
+    width: 90vw;
+    max-width:1170px;
+    margin: 0 auto;
+    padding: 0;
+    color:#fff;
+}
+.coff-center h1{
+    letter-spacing:2px;
+    text-align: center;
+    text-transform:capitalize;
+    margin_bottom: 0.25rem;
+}
+.coffee-center p{
+  margin-bottom:0.5rem;
+    max-width: 35rem;
+}
