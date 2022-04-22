@@ -34,7 +34,7 @@ html{
     border-top:2 auto;
     margin: 0.25rem 0.25rem;
     text-align: left;
-    max-width: 35rem;
+    max-width: 95rem;
    margin: 0.25rem auto;
    
     border:3px solid transparent ;
@@ -48,6 +48,7 @@ text-transform: uppercase;
 font-weight: 700;
 color: rgb(0, 0, 0);
 letter-spacing: 2px;
+text-align: left;
 }
 .nav-center{
     width:90vw;
